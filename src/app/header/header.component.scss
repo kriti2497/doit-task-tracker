@@ -1,0 +1,24 @@
+.navbar{
+  background-color: #1F2833!important;
+  box-shadow: 0 0 6px 0px #000029;
+}
+.logo{
+  width: 50px;
+}
+.navbar-nav {
+  justify-content: flex-end;
+}
+.user-default-img {
+  border: 1px solid;
+  border-radius: 50%;
+  width: 25px;
+  padding: 2px;
+  margin-right: 5px;
+}
+.nav-link{
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  color: #999999!important;
+  cursor: pointer;
+}
