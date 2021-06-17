@@ -1,8 +1,10 @@
-.container{
-  background-color: #1A1A1D;
-  width: 100vw!important;
+@import "./../../../assets/stylings/variables";
+
+.outer-div{
+  background-color: $background-dark-primary;
+  min-height: 90vh;
 }
 .card{
-  background-color: #1F2833;
-  color: #999999;
+  background-color: $background-dark-secondary;
+  color: $dark-font-primary;
 }

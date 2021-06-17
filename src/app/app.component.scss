@@ -1,0 +1,8 @@
+.main-container{
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+}
+app-header{
+  flex: 0 0 auto;
+}

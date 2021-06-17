@@ -1,7 +1,9 @@
+@import "./../../../assets/stylings/variables";
+
 ul{
-  background-color: #1F2833;
-  height: 88vh;
-  width: 60px;
+  background-color: $background-dark-secondary;
+  height: 100%;
+  // width: 60px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -10,5 +12,5 @@ ul{
 li{
   list-style-type: none;
   font-size: 25px;
-  color: #999999;
+  color: $dark-font-primary;
 }
